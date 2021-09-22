@@ -1,4 +1,4 @@
-# Secure SHell (SSH) introduction #
+# Secure SHell (SSH) basics #
 
 ## Lecture notes ##
 
@@ -14,4 +14,4 @@ Note that the backend setup / teardown scripts are for the lecturer to use.
 
 [Wikipedia article on SSH](https://en.wikipedia.org/wiki/Secure_Shell)
 
-[Wikipedia article on SSH File Transfer Protocol (SFTP)][https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol]
+[Wikipedia article on SSH File Transfer Protocol (SFTP)](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol)
